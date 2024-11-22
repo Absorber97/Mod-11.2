@@ -2,6 +2,9 @@
 
 This project implements a question-answering system based on Andrew Ng's article about building a career in AI. The system uses Cohere's language models for embeddings and text generation, along with approximate nearest neighbors (Annoy) for efficient similarity search.
 
+- Google Slides: https://docs.google.com/presentation/d/1-8c3ZmYjGydoFhOUoS6m8uz1pJxi1AfhKBARsMTE53U/edit?usp=sharing 
+- Google Slides (PDF): https://drive.google.com/file/d/1bIeA8vR7-GjHbQcwN5eN7AF7QHdWeGfr/view?usp=sharing 
+
 ## Features
 
 - Text preprocessing and cleaning
